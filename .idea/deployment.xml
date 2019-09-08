@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="XAMPP PHP" uploadOnCheckin="53b9244e-fa00-47b3-b93c-f941dc655b2e">
+    <serverData>
+      <paths name="XAMPP PHP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="aufgabe" local="$PROJECT_DIR$" web="/aufgabe" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="XAMPP PHP" />
+  </component>
+</project>
